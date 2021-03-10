@@ -1,3 +1,5 @@
 # Tweets-Sentiment-Analysis-and-Tweet-Generator
 
-<img src="https://ibb.co/wyKfHg6" /> 
+![Alt text](IA2 - Final Project/banner/banner.jpeg?raw=true "Title")
+
+
