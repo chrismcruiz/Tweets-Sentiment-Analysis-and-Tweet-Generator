@@ -18,6 +18,11 @@
 
 ## Descripción del Dataset
 
+El dataset se obtuvo a partir de Web Scrapping. Para ello, recopilamos tweets relacionados con la vacuna del COVID-19. 
+
+Para el clasificador, con el fin de realizar un entrenamiento supervisado, recolectamos tweets a partir de los hashtags #YoMeVacuno y #YoNoMeVacuno. Luego de recopilar los tweets, realizamos un análisis y aplicamos medidas para obtener solo la información desaeada.
+
+
 
 ## Modelos Utilizados
 
