@@ -12,12 +12,13 @@
 ## Motivación del Proyecto
 
 La implementación de la vacuna del COVID-19 ha sido un tema que ha dado mucho de qué hablar. Diferentes personas alrededor del mundo han dejado claro su posición en cuanto a si quieren o no recibir la vacuna, muchas de estas opiniones se hacen públicas a través de redes sociales. Al ser un gran número de personas en diferentes países, es difícil saber cuál es la opinión dominante a nivel mundial, e incluso, la posición general en un entorno local. Analizar esta posición de los habitantes de un país puede ser útil, ya que a partir de esto se puede determinar un estimado de compra de vacunas y desarrollar un cronograma de vacunación óptimo. El fin del proyecto es tener una aproximación a la posición de los colombianos frente al tema de la vacuna a partir de tweets.
-Además, la desinformación generada en cuando a la vacunación, ha generado que un porcentaje de colombianos haya adoptado una posición negativa en cuanto a este tema, por lo tanto, es importante crear un medio que divulgue información real y confiable, con el fin de que los colombianos se sientan seguros.
+
+Además, la desinformación generada en cuanto a la vacunación, ha generado que un porcentaje de colombianos haya adoptado una posición negativa en cuanto a este tema, por lo tanto, es importante crear un medio que divulgue información real y confiable, con el fin de que los colombianos se sientan seguros.
 
 ## Objetivos
 
-* Desarrollar un modelo que permita la clasificación de tweets, con el fin de determinar la posición de Colombia frente a la aplicación de la vacuna.
 * Realizar un proceso de Web Scrapping para la recolección de datos en Twitter.
+* Desarrollar un modelo que permita la clasificación de tweets, con el fin de determinar la posición de Colombia frente a la aplicación de la vacuna.
 * Implementar un generador de tweets, con el fin de proveer información que incentive la vacunación.
 
 
