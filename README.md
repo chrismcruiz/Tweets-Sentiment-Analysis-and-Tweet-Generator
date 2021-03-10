@@ -31,7 +31,7 @@ Luego de las medidas tomadas, se obtuvieron 7664 tweets. La representación de l
 * 0: Tweet negativo ante la vacuna.
 * 1: Tweet positivo ante la vacuna.
 
-Para el generador de texto, obtuvimos información de tweets a partir de filtros (la determinación de los filtros se hizo en base a un análisis previo). En total, se conisguió un dataset con 17120 tweets.
+Para el generador de texto, obtuvimos información de tweets a partir de filtros (la determinación de los filtros se hizo en base a un análisis previo). En total, se conisguió un dataset con 17120 tweets. Se decidió recolectar una mayor cantidad de tweets para el generador, puesto que al usar un modelo tan robusto como GPT-2, es necesario un mayor volumen de datos.
 
 ## Modelos Utilizados
 
