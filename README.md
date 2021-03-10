@@ -12,6 +12,7 @@
 ## Motivación del Proyecto
 
 
+
 ## Objetivos
 
 
@@ -19,6 +20,10 @@
 
 
 ## Modelos Utilizados
+
+* LSTM
+* GRU
+* GPT-2-small-spanish
 
 
 ## Enlaces de Interés
