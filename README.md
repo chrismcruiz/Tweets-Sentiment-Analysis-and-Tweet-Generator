@@ -17,6 +17,7 @@ Además, la desinformación generada en cuando a la vacunación, ha generado que
 ## Objetivos
 
 * Desarrollar un modelo que permita la clasificación de tweets, con el fin de determinar la posición de Colombia frente a la aplicación de la vacuna.
+* Realizar un proceso de Web Scrapping para la recolección de datos en Twitter.
 * Implementar un generador de tweets, con el fin de proveer información que incentive la vacunación.
 
 
