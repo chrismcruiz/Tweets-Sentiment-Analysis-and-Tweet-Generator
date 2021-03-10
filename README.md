@@ -1,6 +1,6 @@
 # Tweets Sentiment Analysis and Tweet Generator using NLP
 
-![Alt text](.banner.jpeg?raw=true "Title")
+![Alt text](banner.jpeg?raw=true "Title")
 
 
 | Integrantes | Código |
