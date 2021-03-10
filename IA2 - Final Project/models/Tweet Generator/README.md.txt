@@ -1,0 +1,1 @@
+Para acceder a los modelos, por favor accede al siguiente enlace: https://drive.google.com/drive/folders/1_l0_9S7XjPg_grPhgn-RlSnjb0oOX-EM?usp=sharing

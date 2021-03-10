@@ -1,0 +1,1 @@
+Para conocer más sobre la estructura de la GPT-2-small-spanish, por favor visitar el siguiente enlace: https://huggingface.co/datificate/gpt2-small-spanish/tree/main
